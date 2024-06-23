@@ -1,0 +1,65 @@
+div{
+    text-align: center;
+    font-family: Ubuntu, sans-serif;
+    margin-top: 40px;
+    font-size: 20px;
+}
+ main{
+    text-align: center;
+    font-family: "Ubuntu", sans-serif;
+    margin-top: 20px;
+    font-size: 30px;
+    width: 100%;
+
+ }
+
+
+
+.container{
+    width: 250px;
+    height: 40vh;
+    display: inline-block;
+    border-radius: 30px;
+    margin-left: 10px;
+    font-size: 35px;
+    text-align: start;
+    color: rgb(255, 255, 255);
+    opacity: 0.96;
+}
+#gallery1{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.128),rgba(0, 0, 0, 0.242)), url(image-1.jpeg);
+    background-position: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#gallery2{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.128),rgba(0, 0, 0, 0.242)), url(image-2.jpeg);
+    background-position: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+#gallery3{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.128),rgba(0, 0, 0, 0.242)), url(image-3.jpeg);
+    background-position: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#gallery4{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.128),rgba(0, 0, 0, 0.242)), url(image-4.jpeg);
+    background-position: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+h2{
+    font-size: 40px;
+    padding-top: 180px;
+    padding-left: 20px;
+}
+p{
+    font-size: 16px;
+    color: grey;
+}
+
+
+
